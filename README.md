@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rmlyy
+- 👋 Hi, I’m Rmly.
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning Javascript and Java.
 - 📫 How to reach me contact@rmly.dev

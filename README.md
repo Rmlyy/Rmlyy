@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rmly.
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning Javascript and Java.
 - 📫 How to reach me: rmly@rmly.dev
 
 <!---

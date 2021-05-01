@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rmly.
-- 👀 I’m interested in learning programming.
+- 👀 I’m interested in programming.
 - 📫 How to reach me: rmly@rmly.dev
 
 <!---

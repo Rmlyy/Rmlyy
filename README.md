@@ -19,11 +19,10 @@
   More
 </summary>
  
-- I also know:
-  * HTML
-  * CSS
-  * Bash
-  * Batch
+  * **HTML**
+  * **CSS**
+  * **Bash**
+  * **Batch**
 
 - My Projects:
 

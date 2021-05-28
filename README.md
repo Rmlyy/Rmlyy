@@ -1,7 +1,8 @@
-    - 👋 Hi, I’m Rmly.
-    - 👀 I’m interested in programming.
-    - 📫 How to reach me: rmly@rmly.dev
-    - 🌍 You can find more about me on my website: https://rmly.dev
+     👋 Hi, I’m Rmly.
+     👀 I’m interested in programming.
+     📫 How to reach me: rmly@rmly.dev
+     🌍 You can find more about me on my website: https://rmly.dev
+     ✨ Sometimes I code plugins for Minecraft.
 - Programming languages i'm working with:
   * **Javascript**
   * **Java**

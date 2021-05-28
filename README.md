@@ -1,8 +1,8 @@
-> 👋 Hi, I’m Rmly.  
-> 👀 I’m interested in programming.  
-> 📫 How to reach me: rmly@rmly.dev  
-> 🌍 You can find more about me on my website: https://rmly.dev  
-> ✨ Sometimes I code plugins for Minecraft. ([Check out my plugins](https://www.spigotmc.org/resources/authors/rmly.1075826/))
+## Hi, I’m Rmly. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+👀 I’m interested in programming.  
+📫 How to reach me: rmly@rmly.dev   
+🌍 You can find more about me on my website: https://rmly.dev  
+✨ Sometimes I code plugins for Minecraft. ([Check out my plugins](https://www.spigotmc.org/resources/authors/rmly.1075826/))
 - Programming languages i'm working with:
   * **Javascript**
   * **Java**
@@ -13,6 +13,12 @@
   * **[EJS](https://ejs.co) (Templating language)**
   * **[Discord.JS](https://discord.js.org) (Node.JS library for interacting with the Discord API)**
   * **[Discord.py](https://discordpy.readthedocs.io/en/stable) (Python API wrapper for Discord)**
+
+<details>
+<summary>
+  More
+</summary>
+ 
 - I also know:
   * HTML
   * CSS

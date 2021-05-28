@@ -1,16 +1,17 @@
-- 👋 Hi, I’m Rmly.
-- 👀 I’m interested in programming.
-- 📫 How to reach me: rmly@rmly.dev
-- 🌍 You can find more about me on my website: https://rmly.dev
+    - 👋 Hi, I’m Rmly.
+    - 👀 I’m interested in programming.
+    - 📫 How to reach me: rmly@rmly.dev
+    - 🌍 You can find more about me on my website: https://rmly.dev
 - Programming languages i'm working with:
   * **Javascript**
   * **Java**
   * **Python**
 
 - Also, i'm working with:
-  * **Express (Node.JS web framework)**
-  * **EJS (Templating language)**
-  * **Discord.JS (Node.JS library for interacting with the Discord API)**
+  * **[Express](https://expressjs.com) (Node.JS web framework)**
+  * **[EJS](https://ejs.co) (Templating language)**
+  * **[Discord.JS](https://discord.js.org) (Node.JS library for interacting with the Discord API)**
+  * **[Discord.py](https://discordpy.readthedocs.io/en/stable) (Python API wrapper for Discord)**
 
 - My Projects:
 

@@ -19,6 +19,7 @@
   More
 </summary>
  
+  * **MySQL**
   * **HTML**
   * **CSS**
   * **Bash**

@@ -3,6 +3,10 @@
 📫 How to reach me: rmly@rmly.dev   
 🌍 You can find more about me on my website: https://rmly.dev  
 ✨ Sometimes I code plugins for Minecraft. ([Check out my plugins](https://www.spigotmc.org/resources/authors/rmly.1075826/))
+⚡ Fun fact: I play PC games such as Minecraft, GTA V, DOOM Eternal, and more.
+
+
+
 - Programming languages i'm working with:
   * **Javascript**
   * **Java**

@@ -27,7 +27,7 @@
 
 - My Projects:
 
-Project Name | Active | Language(s)
+Project Name | Active | Made with
 ------------ | ------------- | -------------
 [Official Website](https://rmly.dev) | true | HTML, CSS
 [Reverse DNS API](https://api.rmly.dev) | true | Express, HTML, CSS

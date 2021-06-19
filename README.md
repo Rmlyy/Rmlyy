@@ -37,6 +37,8 @@ Project Name | Active | Made with
 [Discord Bot](https://discord.rmly.dev) | true | Node.JS, Discord.JS
 [URL Shortener](https://aur.pw) | true | Express, Javascript, HTML, CSS
 [YouTube MP3 Downloader](https://yt.rmly.dev) | true | Express, Javascript, HTML, CSS
+[Earrape](https://earrape.rmly.dev) | true | Express, Javascript, HTML, CSS
+[File Hosting](https://share.rmly.dev) | true | Express, HTML, CSS
 
 <!---
 Rmlyy/Rmlyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

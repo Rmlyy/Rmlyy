@@ -11,7 +11,7 @@
   * **Java**
   * **Python**
 
-- Also, i'm using:
+- I'm also using:
   * **[Express](https://expressjs.com) (Node.JS web framework)**
   * **[EJS](https://ejs.co) (Templating language)**
   * **[Discord.JS](https://discord.js.org) (Node.JS library for interacting with the Discord API)**

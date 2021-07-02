@@ -33,10 +33,10 @@
 Project Name | Active | Made with
 ------------ | ------------- | -------------
 [Official Website](https://rmly.dev) | true | HTML, CSS
-[Reverse DNS API](https://api.rmly.dev) | true | Express
-[Discord Bot](https://discord.rmly.dev) | true | Discord.JS
+[Reverse DNS API](https://api.rmly.dev) | true | Express, EJS, HTML, CSS
+[Discord Bot](https://discord.rmly.dev) | true | Discord.JS, MySQL
 [URL Shortener](https://aur.pw) | true | Express, Javascript, HTML, CSS
-[YouTube MP3 Downloader](https://yt.rmly.dev) | true | Express, Javascript, HTML, CSS
+[YouTube MP3 Downloader](https://yt.rmly.dev) | true | Express, EJS, Javascript, HTML, CSS
 [Earrape](https://earrape.rmly.dev) | true | Express, Javascript, HTML, CSS
 [File Hosting](https://share.rmly.dev) | true | Express, HTML, CSS
 [Uploader](https://i.aur.pw) | true | Express, EJS, HTML, CSS

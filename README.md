@@ -33,7 +33,7 @@
 Project Name | Active | Made with
 ------------ | ------------- | -------------
 [Official Website](https://rmly.dev) | true | HTML, CSS
-[Reverse DNS API](https://api.rmly.dev) | true | Express, EJS, HTML, CSS
+[Reverse DNS API](https://api.rmly.dev) | true | Express, HTML, CSS
 [Discord Bot](https://discord.rmly.dev) | true | Discord.JS, MySQL
 [URL Shortener](https://aur.pw) | true | Express, Javascript, HTML, CSS
 [YouTube MP3 Downloader](https://yt.rmly.dev) | true | Express, EJS, Javascript, HTML, CSS

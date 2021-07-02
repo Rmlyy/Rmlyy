@@ -6,12 +6,12 @@
 
 
 
-- Programming languages i'm working with:
+- Programming languages i'm using:
   * **Javascript**
   * **Java**
   * **Python**
 
-- Also, i'm working with:
+- Also, i'm using:
   * **[Express](https://expressjs.com) (Node.JS web framework)**
   * **[EJS](https://ejs.co) (Templating language)**
   * **[Discord.JS](https://discord.js.org) (Node.JS library for interacting with the Discord API)**

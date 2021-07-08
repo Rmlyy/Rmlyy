@@ -21,7 +21,6 @@
   [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
   <br>
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-  [![Discord.JS](https://img.shields.io/badge/Discord.JS-grey?style=for-the-badge&logo=discord&logoColor=darkgrey)](https://discord.js.org)
   
   ### IDEs / Text Editors
   [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)

@@ -35,6 +35,15 @@
   
   ### Contact
   [![Email](https://img.shields.io/badge/Email-hello@rmly.dev-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rmly.dev)
+  
+  ### My Projects
+  https://rmly.dev - Official Website  
+  https://aur.pw - URL Shortener  
+  https://i.aur.pw - ShareX Uploader  
+  https://api.rmly.dev - Reverse DNS API  
+  https://yt.rmly.dev - YouTube MP3 Downloader  
+  https://earrape.rmly.dev - YouTube Video > Earrape  
+  https://discord.rmly.dev - Rmly Bot (Discord Bot)  
 </div>
 
 <!---

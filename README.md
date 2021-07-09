@@ -28,12 +28,9 @@
   [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com)
   [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
   
-  ### Social
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.rmly.dev)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RmlyTheDev)
-  
   ### Contact
   [![Email](https://img.shields.io/badge/Email-hello@rmly.dev-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rmly.dev)
+  [![Discord](https://img.shields.io/badge/Discord-Rmly%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.rmly.dev)
   
   ### My Projects
   https://rmly.dev - Official Website  

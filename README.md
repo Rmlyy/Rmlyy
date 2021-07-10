@@ -42,7 +42,7 @@
   https://discord.rmly.dev - Rmly Bot (Discord Bot)  
   
   ### Random things about me
-  💻 I use Windows on Desktops.  
+  💻 I use Windows on desktops.  
   ⚙️ I use Debian on servers.  
   🐶 I like dogs and 🐱 cats.
 </div>

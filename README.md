@@ -40,6 +40,11 @@
   https://yt.rmly.dev - YouTube MP3 Downloader  
   https://earrape.rmly.dev - YouTube Video > Earrape  
   https://discord.rmly.dev - Rmly Bot (Discord Bot)  
+  
+  ### Random things about me
+  💻 I use Windows on Desktops.  
+  ⚙️ I use Debian on servers.  
+  🐶 I like dogs and 🐱 cats.
 </div>
 
 <!---

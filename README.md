@@ -4,8 +4,8 @@
   ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
   I'm Rmly, welcome to my GitHub profile.
 
-  [![OS](https://img.shields.io/badge/OS-fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org) 
-  [![Browser](https://img.shields.io/badge/Browser-firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox) 
+  [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) 
+  [![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) 
   <br>
   [![CPU](https://img.shields.io/badge/CPU-Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/201839/intel-core-i5-10300h-processor-8m-cache-up-to-4-50-ghz.html)
   [![GPU](https://img.shields.io/badge/GPU-GTX%201660%20Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1660-Ti-Laptop-Graphics-Card.386426.0.html)

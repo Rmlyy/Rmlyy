@@ -44,7 +44,7 @@
   ### Random things about me
   💻 I use Windows on desktops.  
   ⚙️ I use Debian on servers.  
-  🐶 I like dogs and 🐱 cats.  
+  🐶 I like dogs & 🐱 cats.  
   📗 I love Node.JS & Express.JS.
 </div>
 

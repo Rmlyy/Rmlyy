@@ -41,9 +41,7 @@
   https://earrape.rmly.dev - YouTube Video > Earrape  
   https://discord.rmly.dev - Rmly Bot (Discord Bot)  
   
-  ### Random things about me
-  💻 I use Windows on desktops.  
-  ⚙️ I use Debian on servers.  
+  ### Random things about me 
   🐶 I like dogs & 🐱 cats.  
   📗 I love Node.JS & Express.JS.
 </div>

@@ -36,6 +36,7 @@
   https://rmly.dev - Official Website  
   https://aur.pw - URL Shortener  
   https://i.rmly.dev - ShareX Uploader  
+  https://upload.rmly.dev - File Hosting    
   https://api.rmly.dev - Reverse DNS API  
   https://yt.rmly.dev - YouTube MP3 Downloader  
   https://earrape.rmly.dev - YouTube Video > Earrape  

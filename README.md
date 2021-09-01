@@ -28,7 +28,7 @@
   
   ### Contact
   [![Email](https://img.shields.io/badge/Email-hello@rmly.dev-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rmly.dev)
-  [![Discord](https://img.shields.io/badge/Discord-Rmly%231550-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.rmly.dev)
+  [![Discord](https://img.shields.io/badge/Discord-Rmly%233210-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.rmly.dev)
   
   ### My Projects
   https://rmly.dev - Official Website  

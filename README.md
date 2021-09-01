@@ -7,8 +7,6 @@
   [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) 
   [![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) 
   <br>
-  [![CPU](https://img.shields.io/badge/CPU-Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/201839/intel-core-i5-10300h-processor-8m-cache-up-to-4-50-ghz.html)
-  [![GPU](https://img.shields.io/badge/GPU-GTX%201660%20Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1660-Ti-Laptop-Graphics-Card.386426.0.html)
   
   ### Programming Languages
   [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
@@ -37,11 +35,7 @@
   https://xzx.ro - URL Shortener  
   https://i.rmly.dev - ShareX Uploader    
   https://api.rmly.dev - Reverse DNS API   
-  https://discord.rmly.dev - Rmly Bot (Discord Bot)  
-  
-  ### Random things about me 
-  🐶 I like dogs & 🐱 cats.  
-  📗 I love Node.JS & Express.JS.
+  https://discord.rmly.dev - My Discord Bot  
 </div>
 
 <!---

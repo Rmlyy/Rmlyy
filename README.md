@@ -1,42 +1,90 @@
-<div align="center">
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Rmly, a developer & Linux enthusiast. In my free time I like developing open source software.
 
-  
-  ## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-  I'm Rmly, welcome to my GitHub profile.
-  <br>
-  
-  ### Programming Languages
-  [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)   
-  
-  ### Technologies
-  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
-  [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://css-tricks.com)
-  [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-  <br>
-  [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-  [![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) 
-  
-  ### IDEs / Text Editors
-  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
-  [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com)
-  [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
-  
-  ### Contact
-  [![Email](https://img.shields.io/badge/Email-hello@rmly.dev-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rmly.dev)
-  [![Discord](https://img.shields.io/badge/Discord-Rmly%233210-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.rmly.dev)
-  
-  ### My Projects
-  https://rmly.dev - Official Website  
-  https://xzx.ro - URL Shortener  
-  https://i.rmly.dev - ShareX Uploader    
-  https://api.rmly.dev - Reverse DNS API   
-  https://discord.rmly.dev - My Discord Bot  
-</div>
+### Get in touch
+* website: https://rmly.dev
+* mail: hello@rmly.dev
+* discord: Rmly#3210
 
-<!---
-Rmlyy/Rmlyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Experience
+<p>
+  <a href="https://www.javascript.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://nodejs.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://java.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://html.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.w3schools.com/css">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.gnu.org/software/bash">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.kernel.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.debian.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" />
+  </a>
+  
+ <a href="https://www.centos.org">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.proxmox.org">
+    <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png" width="40" height="40" />
+  </a>
+  
+  <a href="https://expressjs.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.npmjs.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.nginx.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://httpd.apache.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.mysql.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://code.visualstudio.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.jetbrains.com/idea">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.sublimetext.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.vim.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" />
+  </a>
+</p>

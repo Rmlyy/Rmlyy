@@ -4,7 +4,7 @@ I'm Rmly, a developer & Linux enthusiast. In my free time I like developing open
 ### Get in touch
 * website: https://rmly.dev
 * mail: hello@rmly.dev
-* discord: Rmly#3210
+* discord: Rmly#7246
 
 ### Experience
 <p>

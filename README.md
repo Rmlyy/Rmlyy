@@ -1,4 +1,4 @@
-## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome
 I'm Rmly, a developer & Linux enthusiast. In my free time I like developing open source software.
 
 ### Get in touch

@@ -64,10 +64,6 @@ I'm Rmly, welcome to my GitHub profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40">
   </a>
   
-  <a href="https://httpd.apache.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40">
-  </a>
-  
   <a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40">
   </a>

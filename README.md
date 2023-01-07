@@ -1,5 +1,5 @@
 ## Welcome
-I'm Rmly, a developer & Linux enthusiast. In my free time I like developing open source software.
+I'm Rmly, welcome to my GitHub profile!
 
 ### Get in touch
 * website: https://rmly.dev
@@ -91,4 +91,13 @@ I'm Rmly, a developer & Linux enthusiast. In my free time I like developing open
   <a href="https://www.vim.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40">
   </a>
+  
+  <a href="https://www.docker.com">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40">
+  </a>
+
+  <a href="https://www.portainer.io">
+    <img src="https://cdn.worldvectorlogo.com/logos/portainer.svg" width="40" height="40">
+  </a>
+  
 </p>

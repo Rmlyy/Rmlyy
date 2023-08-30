@@ -4,7 +4,7 @@ I'm Rmly, welcome to my GitHub profile!
 ### Get in touch
 * website: https://rmly.dev
 * mail: hello@rmly.dev
-* discord: Rmly#7246
+* discord: @Rmly
 
 ### Experience
 <p>

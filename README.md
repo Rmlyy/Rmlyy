@@ -72,10 +72,6 @@ I'm Rmly, welcome to my GitHub profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
   </a>
   
-  <a href="https://www.sublimetext.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40">
-  </a>
-  
   <a href="https://www.docker.com">
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40">
   </a>

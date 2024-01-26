@@ -2,8 +2,8 @@
 I'm Rmly, welcome to my GitHub profile!
 
 ### Get in touch
-* website: https://rmly.dev
-* mail: hello@rmly.dev
+* website: https://rmly.win
+* mail: hi@rmly.win
 * discord: @Rmly
 
 ### Experience
@@ -14,10 +14,6 @@ I'm Rmly, welcome to my GitHub profile!
   
   <a href="https://nodejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40">
-  </a>
-  
-  <a href="https://java.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
   </a>
   
   <a href="https://html.com">
@@ -76,16 +72,8 @@ I'm Rmly, welcome to my GitHub profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
   </a>
   
-  <a href="https://www.jetbrains.com/idea">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" height="40">
-  </a>
-  
   <a href="https://www.sublimetext.com">
     <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40">
-  </a>
-  
-  <a href="https://www.vim.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40">
   </a>
   
   <a href="https://www.docker.com">

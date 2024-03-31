@@ -2,9 +2,9 @@
 I'm Rmly, welcome to my GitHub profile!
 
 ### Get in touch
-* website: https://rmly.win
-* mail: hi@rmly.win
-* discord: [@Rmly](https://discord.rmly.win)
+* website: https://rmly.me
+* mail: hi@rmly.me
+* discord: [@Rmly](https://discord.rmly.me)
 
 ### Experience
 <p>
